@@ -1,0 +1,157 @@
+@media (max-width:1520px) {
+    .fixed-width {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+ 
+       
+    }
+
+}
+
+@media (max-width:1364px) {
+    .fixed-width {
+        width: 100%;
+        max-width: 100%;
+       margin: auto;
+      
+    }
+
+}
+@media (max-width:1038px) {
+    .header-section .logo img {
+      
+        width: 150px;
+    }
+    .header-section .logo {
+        
+        width: 100%;
+        text-align: center;
+    }
+    .header-section .menu {
+     
+        width: 100%;
+    }
+    .header-section .menu ul {
+        text-align: center;
+    }
+    .header-section .menu ul li:first-child a {
+        border-left: 0;
+    }
+    .header-section .menu ul li a {
+        
+        
+        padding: 0 51px;
+   
+        border-right: 0;
+        
+    }
+    .content-item {
+        margin-left: 20px;
+    }
+    .service-item {
+        margin-right: 0;
+        margin-left: 12px;
+    }
+    .content-list {
+        margin-right: 15px;
+    }
+}
+@media (max-width:1120px) {
+    .banner {
+      
+        padding: 100px 0;
+       
+    }
+}
+@media (max-width:1050px){
+    .banner {
+        padding: 141px 0;
+    }
+}
+@media (max-width:834px) {
+    .banner {
+        padding: 83px 0;
+    }
+}
+@media (max-width:725px) {
+    .service-item {
+        width: 74%;
+        /* margin: auto; */
+        margin-left: 74px;
+        margin-bottom: 20px;
+    }
+    .content-item {
+        margin-left: 20px;
+        width: 100%;
+    }
+    .content-item p {
+        margin-bottom: 23px;
+        border-bottom: 1px solid #dddf;
+    }
+    .content-list h2 {
+  
+        text-align: center;
+    }
+    .content-list {
+        width: 92%;
+        margin-right: 28px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .content-list ul li {
+    
+        margin-bottom: 13px;
+     
+    }
+    .footer-content {
+      
+        width: 100%;
+        text-align: center;
+    }
+    .footer-menu {
+      
+        text-align: center;
+        width: 100%;
+        margin-top: 23px;
+    }
+    .content-item {
+        /* margin-left: 20px; */
+        box-sizing: border-box;
+        padding-right: 29px;
+    }
+    .header-section .menu ul li a {
+        padding: 0 17px;
+        border-right: 0;
+    }
+}
+@media (max-width:598px) {
+    .banner {
+        padding: 45px 0;
+    }
+    .banner h1 {
+ 
+        padding: 6px 0px;
+        
+    }
+}
+@media (max-width:414px){
+    .banner {
+        padding: 16px 0;
+    }
+    .banner h2 {
+    
+        padding: 5px 11px;
+        font-size: 22px;
+      
+    }
+    .banner h1 {
+
+        max-width: 206px;
+      
+        padding: 6px 0px;
+      
+        font-size: 22px;
+    }
+}
+
